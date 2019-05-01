@@ -1,0 +1,29 @@
+{
+  "name": "java",
+  "users": [
+    {
+      "name": "Alex",
+      "age": 22
+    },
+    {
+      "name": "Olga",
+      "age": 23
+    },
+    {
+      "name": "Maks",
+      "age": 25
+    },
+    {
+      "name": "Dima",
+      "age": 52
+    },
+    {
+      "name": "Bob",
+      "age": 33
+    },
+    {
+      "name": "Kate",
+      "age": 29
+    }
+  ]
+}
